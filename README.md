@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnomi1
-- 👀 I am a tubist, guitarist, pianist and bassist.
+- 👀 I am a tubist, guitarist, bassist and pianist.
 - 🌱 I enjoy creating music, art and reading the atlantic articles. 
 
 <!---
