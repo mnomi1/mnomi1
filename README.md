@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnomi1
-- 👀 I am a tubist, guitarist, bassist and pianist.
-- 🌱 I enjoy creating music, art and reading the atlantic articles. 
+- 👀 I play the guitar, tuba and a little bit of electric bass
+- 🌱 hi hi hi
 
 <!---
 mnomi1/mnomi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
